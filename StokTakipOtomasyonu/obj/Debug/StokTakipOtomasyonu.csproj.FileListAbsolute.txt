@@ -1,0 +1,17 @@
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\bin\Debug\StokTakipOtomasyonu.exe.config
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\bin\Debug\StokTakipOtomasyonu.exe
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\bin\Debug\StokTakipOtomasyonu.pdb
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.frmMusteriEkle.resources
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.frmsatissayfa.resources
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.exe
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.pdb
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.frmmusterilistele.resources
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.frmKategori.resources
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.frmMarka.resources
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.frmUrunEkle.resources
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.frmUrunListele.resources
+C:\Users\Win11\source\repos\StokTakipOtomasyonu\obj\Debug\StokTakipOtomasyonu.frmSatisListele.resources
